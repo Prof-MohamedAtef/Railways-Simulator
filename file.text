@@ -8,8 +8,8 @@ I'm going to write my First Code here as follows  :
 
 Public Class Mohamed {
 
-Public Static void Hellow_World(String[]args)
+Public Static void Hellow_Mohamed(String[]args)
 {
-	Console.RwiteLine("Hellow World");
+	Console.RwiteLine("Hellow Mohamed");
 }
 }
