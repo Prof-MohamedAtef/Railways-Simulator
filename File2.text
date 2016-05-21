@@ -13,9 +13,12 @@ namespace games
 
 		Public Class start_playing
 		{
-			
-			Public start_playing()
-			{}
+			int x,y;				
+			Public start_playing(int m, int n)
+			{
+				x=m;
+				y=n;
+			}
 			Public Static Void Play()
 			{
 			}
