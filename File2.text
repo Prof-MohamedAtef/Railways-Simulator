@@ -1,1 +1,34 @@
 Hi This is File 2
+
+C# Code Here
+using system.Master;
+Using System.Web;
+Using System.IO;
+Using System.OlEDB;
+Using System.Data;
+Using System.Drawing;
+
+namespace games
+	{
+
+		Public Class start_playing
+		{
+			
+			Public start_playing()
+			{}
+			Public Static Void Play()
+			{
+			}
+			
+		}
+		Public start 
+		{
+			Public start()
+			{}
+			Public Static Void Main(Event[]args)
+			{
+				Start_playing sp=new Start_playing();
+				sp.Play();	
+			}
+		}
+	}
