@@ -1,3 +1,15 @@
 Hi I'm Mohamed
 
 I'm 23 years old
+
+I'm going to write my First Code here as follows  :
+
+Using System.Console;
+
+Public Class Mohamed {
+
+Public Static void Hellow_World(String[]args)
+{
+	Console.RwiteLine("Hellow World");
+}
+}
